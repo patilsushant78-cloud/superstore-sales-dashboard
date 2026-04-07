@@ -13,5 +13,5 @@ Analyze sales performance and identify trends.
 - Sales peak in Q4
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
