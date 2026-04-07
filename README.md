@@ -14,4 +14,5 @@ Analyze sales performance and identify trends.
 
 ## Dashboard Preview
 ![Dashboard](Dashboard.png)
+![Dashboard](Forecast.png)
 
